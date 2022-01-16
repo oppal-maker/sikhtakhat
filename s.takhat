@@ -1,0 +1,45 @@
+{
+        "id": 1,
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2014/12/Gurudwaras-in-India.jpg",
+        "info": "In the 15th century a religion emerged in India that spoke about equality, bravery and generosity. Sikhism, founded by the humble saint Guru Nanak, proved to be one of the most powerful religions in the history of India. This religion gave us a league of extraordinary men that fought for truth and became pillars of courage. Today, Sikhism is the fourth-largest religion in India with 2% of the country’s total population following it. Their places of worship called Gurudwara are the sacred shrines that not only render us spiritual comfort but also offer us an insight into how Sikhism has sustained. With thousands of Gurudwaras established across India, Sikhs have managed some of the cleanest and organized places of worship in India. That is why this time around we have prepared a list of some of the best Gurudwaras in India for you to go beyond the known. Check it out:",
+        "name":"Shri Darbar Sahib Amritsar",
+        "price":1   
+    },
+    {
+        "id": 2,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Akal_takhat_amritsar_20200729122603.jpg",
+        "info": "Akal Takht (Throne of the Timeless One) is the highest political and administrative institution of the Sikhs, founded by the sixth Sikh Guru, Guru Hargobind in 1606. Located in the famous Golden Temple complex of Amritsar, the Akal Takht is one of the Five Takhts of the Sikhs. These Takhts are seats of power and authority among the Sikh community, and the place of the Jathedar, the highest spokesmen among them. The Akal Takht is meant to be a symbol of political sovereignty and justice, where the spiritual and earthly concerns of the Sikh people could be addressed and examined.:",
+        "name":"Shri Akal Takht Sahib Amritsar",
+        "price":2   
+    },
+    {
+        "id": 3,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/800px-Takhat-Sri-Kesgarh-Sahib-Anandpur-Sahib_20190322161640.jpg",
+        "info": "Takhat Sri Kesgarh Sahib Ji is a famous Gurudwara is located right in the heart of Anandpur Sahib and is among the most revered Sikh institutions in the country. Its foundation was laid in 1689, and the Khalsa Panth was born here. The initiation of Khande di Pahul by Guru Gobind Singh Ji happened here on the holy day of Baisakhi in 1699. This sacred shrine holds great importance among locals.",
+        "name":"Takhat Sri Kesgarh Sahib Ji,  Anandpur Sahib Punjab",
+        "price":3   
+    },
+    {
+        "id": 4,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Gurudwara_DamDamaSahib_20190521095538.jpg",
+        "info": "Located in Bathinda, Punjab, Takht Sri Damdama Sahib is one of the 5 takhts in Sikhism. Takhts, also called Seats of Temporal Authority are religious places which hold significant importance in Sikh religion. The one in discussion is where the tenth Sikh Guru, Guru Gobind Singh Ji, assembled and instituted the Holy Book of Sikhs, Guru Granth Sahib Ji. The book is the only thing which the Sikhs worship. Not a person, picture or any statue, just Guru Granth Sahib Ji, the Holy Book which is the compilation of the hymns, teaching and preaching of the Sikh Gurus and some other people. :",
+        "name":"Takht Sri Damdama Sahib Gurdwara Bhatinda Punjab",
+        "price":4   
+    },
+    {
+        "id": 5,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/3463_20190704184417.jpg",
+        "info": "This Gurudwara was built by Maharaja Ranjit Singh in remembrance of Guru Gobind Singh Ji, Patna being his birthplace. He was the 10th and the last Guru of Sikhs. Many scriptures of the Sikhs can be viewed here. It is also among one of the 5 takhtas or holy seats of authority of the Sikhs. :",
+        "name":"Takhat Shri Patna Sahib, Bihar",
+        "price":5   
+    },
+    {
+        "id": 6,
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Hazur_Sahib_20190116143027.jpg",
+        "info": "Hazur Sahib is a sacred monument that houses one of the five takhts or thrones of temporal authority. Also famous as Abchalnagar and Takht Sachkhand Sri Hazur Sahib, Hazur Sahib is a renowned location for Sikh Pilgrimage. This is where Guru Gobind Singh breathed his last in 1708. The temple or the Gurudwara was built around the location where Guru Gobind Singh was cremated. The stunning architecture of the Gurudwara is quite a treat to the eyes and so is the complex that extends around it on the banks of River Godavari in Nanded, Maharashtra. Every year, hundreds of thousands of followers visit the Gurudwara. What is more humbling is that they welcome people from every background with open arms. Therefore, its pristine beauty and serene ambience can also be enjoyed by tourists visiting Nanded. Apart from its architectural grandeur, it is also highly revered for its religious significance. When Guru Gobind Singh Ji was discussing Guruship on the sacred Guru Granth Sahib Book, he renamed Nanded as Abchalnagar which means a steadfast city. His teachings lead to a way of thinking that revolves around God and his truth. Thus, the place was also called ‘Sachkhand’ which literally means the region of truth. Having said that, Gurunanak, in his texts, has used the name to denote the abode of God as well. :",
+        "name":"Takhat Shri Hazur Sahib, Naded, Maharashtra Goa",
+        "price":6   
+    }
+
+
+
